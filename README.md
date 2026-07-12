@@ -40,11 +40,11 @@ Zero dependencies — Python 3.10+ stdlib only.
 4. **Run:**
 
    ```bat
-   python -m autobot --list        : show pending projects in run order
-   python -m autobot --dry-run     : show what would run (backend/model/effort + prompt)
-   python -m autobot               : run the next pending project once
-   python -m autobot --watch       : keep going: run projects back-to-back, sleep
-                                   :   through token/quota resets, poll for new work
+   python -m autobot --list        :: show pending projects in run order
+   python -m autobot --dry-run     :: show what would run (backend/model/effort + prompt)
+   python -m autobot               :: run the next pending project once
+   python -m autobot --watch       :: keep going: run projects back-to-back, sleep
+                                   ::   through token/quota resets, poll for new work
    ```
 
    Or double-click `start_autobot.bat` (watch mode).
