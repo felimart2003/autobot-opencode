@@ -170,5 +170,3 @@ schtasks /Create /TN "autobot" /SC ONLOGON /TR "\"C:\path\to\autobot-opencode\st
 Thinking about charging for this? See [MONETIZATION.md](MONETIZATION.md) for an honest
 breakdown of the $1/month idea, the reverse-engineering question, and what actually
 impresses hiring managers.
-#   a u t o b o t - o p e n c o d e  
- 

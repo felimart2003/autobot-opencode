@@ -1,0 +1,5 @@
+.env
+logs/
+workspaces/
+__pycache__/
+.autobot.lock
